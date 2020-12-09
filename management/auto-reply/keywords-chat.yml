@@ -1,7 +1,7 @@
 keyword: 聊天室
 msgType: text
 content: |-
-        Jenkins 官方中文聊天室（我们没有 QQ 群），
+        Jenkins 官方中文聊天室
         您需要使用 GitHub 账号登陆。加入后请即使关注公告！
 
         [Jenkins] https://gitter.im/jenkinsci/chinese
@@ -9,5 +9,7 @@ content: |-
         [Jenkins X] https://gitter.im/jenkinsci/jenkins-x-zh
 
         [本地化小组] https://gitter.im/jenkinsci/chinese-localization-sig
+        
+        [Jenkins 中文 Slack] https://join.slack.com/t/jenkins-ttp2102/shared_invite/zt-itexxf06-rUQk2PFgEgGjx0pyBzuKWA
 
         请在不同的频道中交流对应的话题。
